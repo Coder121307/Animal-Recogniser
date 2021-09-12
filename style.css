@@ -1,0 +1,31 @@
+.main_div{
+    background-color: aquamarine;
+    color: white;
+}
+
+.header_div{
+    background-color:aquamarine;
+    color: white;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.header_div p {
+    
+    color: aquamarine;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+body{
+    background-color: lime;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
